@@ -1,8 +1,14 @@
 # Dependencies
+/bower_components/
+/node_modules/
 .psci_modules
-bower_components
-node_modules
+/output/
 
 # Generated files
-.psci
-output
+/generated-docs/
+/.psc-package/
+/.psc*
+/.purs*
+/.psa*
+/.pulp-cache/
+/.spago
